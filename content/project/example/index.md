@@ -29,8 +29,8 @@ tags:
 links: []
 image:
   caption: ""
-  focal_point: Smart
+  focal_point: Center
   filename: https://www.martin-watzinger.com/uploads/4/9/4/1/49415675/editor/total-us.png?1635505408
-  preview_only: false
+  preview_only: true
 url_code: ""
 ---
