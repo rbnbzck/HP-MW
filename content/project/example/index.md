@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 slides: example
 url_pdf: ""
 title: This paper analyzes the effects of the 1984 breakup of the Bell System,
@@ -12,7 +12,7 @@ title: This paper analyzes the effects of the 1984 breakup of the Bell System,
   to the same technology, increased. Our results suggest that exclusionary
   behavior can lead to "missing innovations".
 subtitle: with Monika Schnitzer
-date: 2016-04-27T00:00:00.000Z
+date: 2022-06-14T10:27:18.542Z
 summary: |-
   
 
@@ -31,6 +31,6 @@ image:
   caption: ""
   focal_point: Smart
   filename: https://www.martin-watzinger.com/uploads/4/9/4/1/49415675/editor/total-us.png?1635505408
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
