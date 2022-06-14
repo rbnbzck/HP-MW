@@ -15,7 +15,7 @@ summary: |-
 
   ## **The Breakup of Bell and its Impact on Innovation**
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 subtitle: with Monika Schnitzer
@@ -29,5 +29,6 @@ image:
   caption: ""
   focal_point: Smart
   filename: https://www.martin-watzinger.com/uploads/4/9/4/1/49415675/editor/total-us.png?1635505408
+  preview_only: true
 url_code: ""
 ---
