@@ -9,7 +9,7 @@ title: This paper analyzes the effects of the 1984 breakup of the Bell System,
   to the same technology, increased. Our results suggest that exclusionary
   behavior can lead to "missing innovations".
 publication_types:
-  - "1"
+  - "2"
 authors:
   - admin
   - M.Schnitzer
@@ -35,9 +35,9 @@ author_notes: []
 doi: ""
 publication: ""
 projects: []
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
