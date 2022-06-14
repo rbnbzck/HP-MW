@@ -28,7 +28,7 @@ tags:
   - ""
 links: []
 image:
-  caption: ""
+  caption: "test"
   focal_point: Center
   filename: total-us.png
   preview_only: false
