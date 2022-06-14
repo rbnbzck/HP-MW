@@ -1,5 +1,5 @@
 ---
-title: Martin Watzinger
+title: M W
 role: Professor of Economics Director at the Münster Center for Economic Policy
   and Professor at the REACH-EUREGIO Startup Center.
 avatar_filename: a51a7747vwl-profs-neu.jpg
