@@ -2,14 +2,6 @@
 draft: true
 slides: example
 url_pdf: ""
-summary: |-
-  
-
-  ## **The Breakup of Bell and its Impact on Innovation**
-url_video: ""
-date: 2016-04-27T00:00:00.000Z
-external_link: ""
-url_slides: ""
 title: This paper analyzes the effects of the 1984 breakup of the Bell System,
   the largest telecommunications company at the time, on the rate and direction
   of innovation in the U.S. The aim of the breakup was to end exclusionary
@@ -20,6 +12,15 @@ title: This paper analyzes the effects of the 1984 breakup of the Bell System,
   to the same technology, increased. Our results suggest that exclusionary
   behavior can lead to "missing innovations".
 subtitle: with Monika Schnitzer
+date: 2016-04-27T00:00:00.000Z
+summary: |-
+  
+
+  ## **The Breakup of Bell and its Impact on Innovation**
+url_video: ""
+featured: true
+external_link: ""
+url_slides: ""
 tags:
   - Bell
   - Innovation
