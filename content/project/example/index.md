@@ -30,7 +30,7 @@ links: []
 image:
   caption: ""
   focal_point: Center
-  filename: https://www.martin-watzinger.com/uploads/4/9/4/1/49415675/editor/total-us.png?1635505408
+  filename: total-us.png
   preview_only: true
 url_code: ""
 ---
