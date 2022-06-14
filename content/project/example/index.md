@@ -31,6 +31,6 @@ image:
   caption: ""
   focal_point: Center
   filename: total-us.png
-  preview_only: true
+  preview_only: false
 url_code: ""
 ---
