@@ -23,7 +23,7 @@ tags:
   - Bell
   - Breakup
   - Telecommunication
-slides: example
+slides: ""
 url_pdf: ""
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
