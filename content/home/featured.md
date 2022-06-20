@@ -16,5 +16,5 @@ content:
     tag: ""
   order: desc
 design:
-  view: Card
+  view: Citation
 ---
