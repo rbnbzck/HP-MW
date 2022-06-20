@@ -13,7 +13,7 @@ title: Today's innovations rely on scientific discoveries of the past, yet only
 publication_types:
   - "2"
 draft: false
-featured: false
+featured: true
 authors:
   - admin
   - Monika Schnitzer
