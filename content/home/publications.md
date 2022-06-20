@@ -21,7 +21,7 @@ content:
   offset: 0
   order: desc
 design:
-  view: List
+  view: Showcase
   columns: "2"
 ---
 
