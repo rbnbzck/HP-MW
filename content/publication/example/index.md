@@ -18,7 +18,11 @@ publication_short: ""
 abstract: The Breakup of Bell and its Impact on Innovation
 draft: true
 featured: true
-tags: []
+tags:
+  - Innovation
+  - Bell
+  - Breakup
+  - Telecommunication
 slides: example
 url_pdf: ""
 image:
