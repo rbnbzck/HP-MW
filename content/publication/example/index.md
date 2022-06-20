@@ -35,7 +35,7 @@ tags:
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: BOTTOM
+  focal_point: CENTER
   preview_only: false
   filename: featured.png
 date: 2022-06-20T12:02:53.530Z
