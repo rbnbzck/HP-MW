@@ -25,7 +25,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-  filename: https://www.martin-watzinger.com/uploads/4/9/4/1/49415675/editor/total-us.png?1635505408
+  filename: featured.png
 summary: ""
 url_dataset: ""
 url_project: ""
