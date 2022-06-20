@@ -29,7 +29,7 @@ tags:
 links: []
 image:
   caption: test
-  focal_point: Center
+  focal_point: Smart
   filename: featured.png
   preview_only: false
 url_code: ""
