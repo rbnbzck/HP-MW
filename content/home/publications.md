@@ -21,8 +21,8 @@ content:
   offset: 0
   order: desc
 design:
-  view: citation
-  columns: "1"
+  view: List
+  columns: "2"
 ---
 
 {{% callout note %}}
