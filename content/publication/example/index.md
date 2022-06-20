@@ -16,7 +16,7 @@ authors:
   - ""
 publication_short: ""
 abstract: The Breakup of Bell and its Impact on Innovation
-draft: true
+draft: false
 featured: true
 tags:
   - Innovation
