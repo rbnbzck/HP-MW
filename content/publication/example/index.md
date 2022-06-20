@@ -25,8 +25,7 @@ tags:
   - Telecommunication
 url_pdf: ""
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
   filename: featured.png
 summary: ""
