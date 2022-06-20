@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: a51a7747vwl-profs-neu.jpg
+    image: ""
 ---
