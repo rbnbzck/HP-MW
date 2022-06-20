@@ -24,7 +24,7 @@ tags:
   - Patents
 image:
   filename: featured.png
-  focal_point: Bottom
+  focal_point: BOTTOM
   preview_only: false
 date: 2022-06-20T12:23:58.595Z
 ---
