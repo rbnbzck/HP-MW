@@ -12,7 +12,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - M.Schnitzer
+  - Monika Schnitzer
   - ""
 publication_short: ""
 abstract: The Breakup of Bell and its Impact on Innovation
@@ -23,7 +23,6 @@ tags:
   - Bell
   - Breakup
   - Telecommunication
-slides: ""
 url_pdf: ""
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"

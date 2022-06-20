@@ -14,6 +14,14 @@ publication_types:
   - "2"
 draft: false
 featured: false
+authors:
+  - admin
+  - Monika Schnitzer
+  - Josh L. Krieger
+tags:
+  - Innovation
+  - Patents 
+url_pdf: "https://www.hbs.edu/ris/Publication%20Files/21-128_6a36a0e5-7f30-4d63-a591-3196d4b3fb5e.pdf"
 image:
   filename: featured.png
   focal_point: Smart
