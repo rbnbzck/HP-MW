@@ -1,4 +1,4 @@
-@@ -1,7 +1,7 @@
+@@ -14,8 +14,8 @@
 {{ $item := .item }}
 
 {{/* Dynamic view adjusts to content type. */}}
@@ -7,7 +7,7 @@
 
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
-@@ -14,8 +14,8 @@
+@@ -1,7 +1,7 @@
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
   {{ $summary = $item.Params.summary | markdownify | emojify }}
